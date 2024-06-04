@@ -641,3 +641,26 @@ h3.accordion-header button {
 .footer_right h2 {
     color: #fff;
 }
+
+.cookie-alert.show {
+    display: block;
+    transform: translateY(0%);
+    transition-delay: 1000ms;
+}
+.cookie-alert .card-body {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem 3rem;
+}
+.cookie-content {
+    width: 85%;
+    padding-right: 10px;
+}
+.accept-btn {
+    width: 15%;
+}
+.accept-cookies {
+    display: block;
+    text-align: center;
+}
