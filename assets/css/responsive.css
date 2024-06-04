@@ -192,5 +192,9 @@
 		.main_h2_heading br {
 			display: block!important;
 		}
+		.nav>#nav-check:checked~.nav-list {
+			height: 100vh;
+		}
+
 		
 }
