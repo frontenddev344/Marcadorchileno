@@ -45,6 +45,12 @@
 }
 
 @media (max-width: 991px) {
+	a.logo img {
+		max-width: 130px;
+	}
+	.footer_left a img {
+		max-width: 130px;
+	}
 	.nav {
 		padding: 1rem;
 	}
@@ -137,10 +143,10 @@
 @media (max-width: 767px) {
 
 	a.logo img {
-		max-width: 160px;
+		max-width: 120px;
 	}
 	.footer_left a img {
-		max-width: 160px;
+		max-width: 120px;
 	}
 
 	.nav-title a svg {
@@ -196,5 +202,5 @@
 			height: 100vh;
 		}
 
-		
+
 }

@@ -219,7 +219,7 @@ header {
 
 
 a.logo img {
-	max-width: 230px;
+	max-width: 165px;
 }
 
 h3 {
@@ -504,7 +504,7 @@ input.form-control.sub_btn:hover {
 
 
 .footer_left a img {
-	max-width: 230px;
+    max-width: 165px;
 
 }
 
