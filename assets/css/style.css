@@ -642,7 +642,7 @@ h3.accordion-header button {
     color: #fff;
 }
 
-.cookie-alert.show {
+/* .cookie-alert.show {
     display: block;
     transform: translateY(0%);
     transition-delay: 1000ms;
@@ -663,7 +663,19 @@ h3.accordion-header button {
 .accept-cookies {
     display: block;
     text-align: center;
-}
+} */
+
+/* Google Fonts - Poppins */
+
+
+  
+  
+  /* COOKIE POPUP STYLES */
+  
+
+
+ 
+
 .Facilities_card .content_facility_card img {
     width: 70px;
     margin: 20px 0;
