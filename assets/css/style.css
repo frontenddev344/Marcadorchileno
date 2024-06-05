@@ -610,8 +610,6 @@ h5.location_hotel {
     height: 100%;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 	min-height: 370px;
-
-	
     display: flex;
     flex-direction: column;
     align-items: center;
